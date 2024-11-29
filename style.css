@@ -1,0 +1,22 @@
+body{
+	background-color: whitesmoke;
+}
+
+.container{
+	background-color: grey;
+	padding: 25px;
+}
+
+.a{
+	box-shadow: darkred 5px 10px;
+}
+
+.b {
+	background-color: lightcoral;
+	box-shadow: 5px 7px;
+}
+
+.c {
+	background-color: lightgreen;
+	box-shadow: darkmagenta 5px 7px;
+}
